@@ -1,0 +1,32 @@
+_repo: Two-Years-in-the-Forbidden-City_889
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Der Ling, Princess
+    aliases:
+    - Te-ling, Princess
+    - Deling, Princess
+    - Deling gong zhu
+    - Te-ling kung chu
+    birthdate: 1886
+    deathdate: 1944
+    gutenberg_agent_id: '459'
+    url: http://www.gutenberg.org/2009/agents/459
+    wikipedia: http://en.wikipedia.org/wiki/Princess_Der_Ling
+description: ''
+gutenberg_issued: '1997-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '889'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'China -- Court and courtiers -- Anecdotes'
+- !lcc 'DS'
+- !lcsh 'Cixi, Empress dowager of China, 1835-1908 -- Anecdotes'
+- !lcsh 'Empresses -- China -- Anecdotes'
+- GITenberg
+title: Two Years in the Forbidden City
+url: http://www.gutenberg.org/ebooks/889
